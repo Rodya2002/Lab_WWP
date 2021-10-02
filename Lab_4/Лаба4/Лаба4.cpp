@@ -32,11 +32,29 @@ int main()
 	cin >> a;
 	cin >> b;
 
-	cout << "Srednya arifmeticheskay = " << (a + b) / 2 << endl;
+	cout << "Srednya arifmeticheskay = " << (a + b) / 2 << endl <<endl;
 	
 	//Пункт 4
 
+	cout << "Nayti summu, rasnosty, proisvedenie i chastnoe kvadratov a i b" << endl << "Wwedite a i b" << endl;
 
+	cin >> a >> b; 
+
+	a = a * a;
+	b = b * b; 
+
+	cout << "summa kvadratov = " << a + b << endl << "rasnosty kvadratov = " << a - b << endl << "Proisvedenie kvadratov = " << a * b << endl << "chastnoe kvadratov = " << a / b << endl;
+
+	//Пункт 5 
+
+	cout << "Nayti summu, rasnosty, proisvedenie i chastnoe modylei a i b" << endl << "Wwedite a i b" << endl;
+
+	cin >> a >> b;
+
+	a = abs(a);
+	b = abs(b);
+
+	cout << "summa modylei = " << a + b << endl << "rasnosty modylei = " << a - b << endl << "Proisvedenie modylei = " << a * b << endl << "chastnoe modylei = " << a / b << endl;
 
 
 

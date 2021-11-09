@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Родион\OneDrive\Рабочий стол\Lab_WWP\Lab_5\Lab5p4\Пункт 4\Пункт 4\Source.cpp(10,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Родион\OneDrive\Рабочий стол\Lab_WWP\Lab_5\Lab5p4\Пункт 4\Пункт 4\Source.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Родион\OneDrive\Рабочий стол\Lab_WWP\Lab_5\Lab5p4\Пункт 4\Пункт 4\Source.cpp(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: два или более файлов с именем Лаб8.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — ..\..\..\Пункт2\Лаб8.cpp, ..\..\..\Пункт3\Лаб8.cpp, ..\..\..\Пункт4\лаб8.cpp, ..\..\..\Пункт5\Лаб8.cpp, Лаб8.cpp.
+  Лаб8.cpp
+  Лаб8.vcxproj -> C:\Users\Родион\OneDrive\Рабочий стол\Lab_WWP\Lab_8\Пункт1\Лаб8\Debug\Лаб8.exe

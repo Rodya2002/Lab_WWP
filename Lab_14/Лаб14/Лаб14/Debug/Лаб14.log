@@ -1,0 +1,2 @@
+﻿  Лаб14.cpp
+C:\Users\Родион\OneDrive\Рабочий стол\Lab_WWP\Lab_14\Лаб14\Лаб14\Лаб14.cpp(85,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
